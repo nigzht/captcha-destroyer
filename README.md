@@ -1,2 +1,2 @@
 # captcha-destroyer
-An electron application for solving google ReCaptcha
+An electron application for solving google Recaptcha
